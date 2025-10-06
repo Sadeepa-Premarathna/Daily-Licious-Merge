@@ -1,4 +1,6 @@
-# Daily Licious - MERN Backend
+# Daily-Licious-Merge
+
+## MERN Backend API
 
 Backend API for the Daily Licious food delivery application built with Node.js, Express.js, and MongoDB.
 
